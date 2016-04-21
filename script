@@ -1,0 +1,38 @@
+push
+translate
+250 150 0
+box
+-100 150 25 100 200 10
+push
+translate
+-100 200 0
+box
+0 0 0 10 50 10
+push
+translate
+50 0 0
+box
+0 0 0 10 50 10
+push
+translate
+40 0 0
+box
+0 0 0 10 50 10
+pop
+pop
+pop 
+push
+yrotate
+40
+box
+40 -250 0 20 100 10
+pop
+pop
+pop
+push
+translate
+20 20 20
+save
+goof.png
+display
+quit

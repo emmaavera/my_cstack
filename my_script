@@ -1,0 +1,12 @@
+push
+translate
+250 230 0
+xrotate
+50
+box
+-50 90 25 100 180 50
+push
+translate
+50 10 0
+sphere
+40 40 40
